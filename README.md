@@ -17,9 +17,6 @@ Para el correcto funcionamiento, configura las siguientes variables en tu entorn
 | `DB_PASSWORD` | Contraseña de la base de datos | `PruebaTecnica2026!` | 
 | `API_SECURITY_KEY` | Llave de seguridad de la aplicación | `123456` | 
 
-### Pruebas en Producción (API Gateway)
-Para realizar las pruebas en el ambiente de producción, simplemente debes reemplazar `http://localhost:8080` en los ejemplos de cURL por la URL base proporcionada por tu API Gateway o balanceador de carga.
-
 ---
 
 ## 📖 Documentación de Endpoints y Pruebas (cURLs)
